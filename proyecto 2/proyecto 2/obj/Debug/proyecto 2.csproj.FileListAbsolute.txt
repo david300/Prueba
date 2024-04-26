@@ -1,0 +1,10 @@
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\obj\Debug\proyecto 2.csproj.AssemblyReference.cache
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\obj\Debug\proyecto_2.Form1.resources
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\obj\Debug\proyecto_2.Properties.Resources.resources
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\obj\Debug\proyecto 2.csproj.GenerateResource.cache
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\obj\Debug\proyecto 2.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\bin\Debug\proyecto 2.exe.config
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\bin\Debug\proyecto 2.exe
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\bin\Debug\proyecto 2.pdb
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\obj\Debug\proyecto 2.exe
+C:\Users\ezequ\source\repos\proyecto 2\proyecto 2\obj\Debug\proyecto 2.pdb
