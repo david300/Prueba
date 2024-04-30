@@ -39,9 +39,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.dtpFecha = new System.Windows.Forms.DateTimePicker();
             this.label4 = new System.Windows.Forms.Label();
             this.txtId = new System.Windows.Forms.TextBox();
-            this.dtpFecha = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,11 +58,11 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeight = 29;
-            this.dataGridView1.Location = new System.Drawing.Point(302, 12);
+            this.dataGridView1.Location = new System.Drawing.Point(443, 39);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.Size = new System.Drawing.Size(426, 331);
-            this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.Size = new System.Drawing.Size(329, 249);
+            this.dataGridView1.TabIndex = 14;
             // 
             // btnEliminar
             // 
@@ -145,6 +145,13 @@
             this.label3.TabIndex = 10;
             this.label3.Text = "Fecha";
             // 
+            // dtpFecha
+            // 
+            this.dtpFecha.Location = new System.Drawing.Point(71, 184);
+            this.dtpFecha.Name = "dtpFecha";
+            this.dtpFecha.Size = new System.Drawing.Size(200, 22);
+            this.dtpFecha.TabIndex = 13;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -160,13 +167,6 @@
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(100, 22);
             this.txtId.TabIndex = 12;
-            // 
-            // dtpFecha
-            // 
-            this.dtpFecha.Location = new System.Drawing.Point(71, 184);
-            this.dtpFecha.Name = "dtpFecha";
-            this.dtpFecha.Size = new System.Drawing.Size(200, 22);
-            this.dtpFecha.TabIndex = 13;
             // 
             // Form1
             // 
@@ -208,9 +208,9 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.DateTimePicker dtpFecha;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtId;
-        private System.Windows.Forms.DateTimePicker dtpFecha;
     }
 }
 
